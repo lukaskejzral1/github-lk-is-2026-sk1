@@ -1,33 +1,29 @@
-int ReadInt(string name)
-{
-    while (true)
-    {
-        Console.Write($"{name} = ");
-        if (int.TryParse(Console.ReadLine(), out int value))
-            return value;
-        Console.WriteLine("Neplatné číslo, zkuste to znovu.");
-    }
-}
+Console.Write("first = ");
+int first = int.Parse(Console.ReadLine());
 
-int first = ReadInt("first");
-int last = ReadInt("last");
+Console.Write("last = ");
+int last = int.Parse(Console.ReadLine());
 
-int step = ReadInt("step");
-while (step == 0)
-{
-    Console.WriteLine("Krok nesmí být 0.");
-    step = ReadInt("step");
-}
+Console.Write("step = ");
+int step = int.Parse(Console.ReadLine());
 
 Console.WriteLine();
 
 if (step > 0)
 {
-    for (long i = first; i <= last; i += step)
+    for (int i = first; i <= last; i += step)
+    {
         Console.WriteLine(i);
+    }
+}
+else if (step < 0)
+{
+    for (int i = first; i >= last; i += step)
+    {
+        Console.WriteLine(i);
+    }
 }
 else
 {
-    for (long i = first; i >= last; i += step)
-        Console.WriteLine(i);
+    Console.WriteLine("Krok nesmí být 0.");
 }
