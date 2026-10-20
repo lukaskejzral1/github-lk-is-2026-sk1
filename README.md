@@ -1,1 +1,1 @@
-poznamka, 20.10
+poznamka, 20.10, push
