@@ -1,1 +1,1 @@
-poznamka, 7.10
+poznamka, 20.10
