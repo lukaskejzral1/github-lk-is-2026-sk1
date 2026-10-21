@@ -52,7 +52,7 @@ while (again.ToLower() == "a")
     }
     Console.WriteLine();
 
-    //dotaz směrem k uživateli na opakování
+    //dotaz 
     Console.WriteLine();
     Console.Write("Pokud chcete pokračovat v programu stiskněte klávesu A. Následně potvrďte klávesou ENTER.: ");
     again = Console.ReadLine() ?? "";

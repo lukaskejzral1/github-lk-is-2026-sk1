@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VypisRady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd68ef3406590c605bc697a3e882899f5d2d2e15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566b886c8bd2fd8a549250ac64151167ca424677")]
 [assembly: System.Reflection.AssemblyProductAttribute("VypisRady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VypisRady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
