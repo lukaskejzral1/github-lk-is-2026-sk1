@@ -12,7 +12,7 @@ while (again.ToLower() == "a")
     Console.WriteLine("************************************************************");
     Console.WriteLine("************************Výpis řady**************************");
     Console.WriteLine("************************************************************");
-    Console.WriteLine("***********************Jakub Konečný************************");
+    Console.WriteLine("***********************Lukáš Kejzral************************");
     Console.WriteLine("************************************************************");
 
     //Vstup počáteční hodnoty - špatně
@@ -82,9 +82,5 @@ while (again.ToLower() == "a")
         Console.WriteLine();
     Console.Write("Pokud chcete pokračovat v programu stiskněte klávesu A. Následně potvrďte klávesou ENTER.: ");
     again = Console.ReadLine() ?? "";
-
-
-
-   
-
+    
 }
