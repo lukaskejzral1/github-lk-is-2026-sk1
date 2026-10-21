@@ -1,0 +1,15 @@
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/bin/Debug/net10.0/VypisRady
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/bin/Debug/net10.0/VypisRady.deps.json
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/bin/Debug/net10.0/VypisRady.runtimeconfig.json
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/bin/Debug/net10.0/VypisRady.dll
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/bin/Debug/net10.0/VypisRady.pdb
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.AssemblyInfoInputs.cache
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.AssemblyInfo.cs
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.csproj.CoreCompileInputs.cache
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.sourcelink.json
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.dll
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/refint/VypisRady.dll
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.pdb
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/VypisRady.genruntimeconfig.cache
+/Users/lukaskejzral/Documents/PROGRAMOVANI /git/github-lk-is-2026-sk1/IS-PROGRAM/obj/Debug/net10.0/ref/VypisRady.dll
